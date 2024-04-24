@@ -1,0 +1,4 @@
+body{background-image: url(assets/img/overlay-bg.jpg); font-family: sans-serif; }
+.error-template {padding: 40px 15px;text-align: center; margin: 10px;}
+.error-actions {margin-top:15px;margin-bottom:15px; padding: 10px; font-size: 20px;}
+.error-actions .btn { margin-right:10px; border: 2px solid navy; padding: 10px; border-radius: 8px; color:white; background: navy; text-decoration: none; margin:10px; }
